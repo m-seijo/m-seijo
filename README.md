@@ -1,4 +1,12 @@
-### Hi there, I'm Mario - I live in Seattle and enjoy self-hosting open source apps on Linux servers.
+# Hi, I'm Mario
+
+![Mario Seijo](https://blog.marioseijo.com/wp-content/uploads/2018/09/ASCII-art-sept2018.png)
+
+> I am a Linux enthusiast and enjoy self-hosting open source apps.
+
+- Currently working on a minimalist WordPress theme
+- Learning Git
+- Looking for an open source project to contribute to
 
 <!--
 **m-seijo/m-seijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
