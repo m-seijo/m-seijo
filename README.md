@@ -5,6 +5,7 @@
 > I am a Linux enthusiast and enjoy self-hosting open source apps.
 
 - Currently working on a minimalist WordPress theme
+- Creating a Raspberry Pi dashboard kiosk
 - Learning Git
 - Looking for an open source project to contribute to
 
